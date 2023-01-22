@@ -2,11 +2,11 @@
 ------
 
 ```
-git config --global user.name Shubham
+git config --global user.name Satyam Pal
 ```
 
 ```
-git config --global user.email admin@itsmeshubham.com
+git config --global user.email admin@gmail.com
 ```
 
 ```
