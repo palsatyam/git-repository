@@ -76,4 +76,4 @@ git push -u <remote-name> <branch-name> --force
 ```
 
 
-``` git commit -m -ammand ""
+``` git commit --amend -m "User Msj #"
