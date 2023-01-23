@@ -74,3 +74,6 @@ git log
 ```
 git push -u <remote-name> <branch-name> --force
 ```
+
+
+``` git commit -m -ammand ""
