@@ -76,4 +76,10 @@ git push -u <remote-name> <branch-name> --force
 ```
 
 
-``` git commit --amend -m "User Msj #"
+``` 
+git commit --amend -m "User Msj #"
+````
+
+```
+git add "1_File name.ex" "2_File name.ex"
+```
